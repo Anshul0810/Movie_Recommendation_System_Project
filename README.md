@@ -23,6 +23,7 @@ Number of movies included
 Columns used: title, genres, keywords, tagline, cast, director, etc.
 
 ## Screenshots of Web App
+![Movie Recommendation Web App](project_web_app.png)
 
 
 
